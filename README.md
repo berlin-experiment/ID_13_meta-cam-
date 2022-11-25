@@ -1,5 +1,6 @@
-# ID_13_meta-cam
+![Beige Simple Elegant Personal LinkedIn Banner-11](https://user-images.githubusercontent.com/83240023/204016429-ae9183ae-b038-40e4-b06a-95dcac79b13f.png)
 
+# ID_13_meta-cam
 Audio Presence Within A VR Environment
 
 For the semester I focuesed on how the real world campus has certain sounds and audio ambience that gives it life and add to the idea of it being an authentic experience. While live streaming the audio into the meta campus would be an esy solution, it does pose some challenges; issues of privacy, placement of audio equipment required, and the high chance that it just sounds like a muffled mess when it is busy I feel prerecorded audio clips, overlayed to mimic the real world back noise would be best.
